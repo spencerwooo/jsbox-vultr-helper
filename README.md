@@ -1,6 +1,12 @@
+![img](https://i.loli.net/2018/06/25/5b30d07d03b86.png)
+
 # :cloud: Vultr Helper
 
-一款运行在 JSBox (iOS) 上的 Vultr 服务器账户查询小工具
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/spencerwoo98/jsbox-vultr-helper/blob/master/LICENSE)
+![love](https://img.shields.io/badge/Made%20with-love-ff69b4.svg)
+![jsbox](https://img.shields.io/badge/JSBox-compatible-green.svg)
+
+一款运行在 JSBox (iOS) 上的 Vultr 服务器账户查询小工具。
 
 Vultr Helper 利用 [Vultr](https://vultr.com) 提供的 API 查询您的账户余额、账户信息以及本月花销。
 
