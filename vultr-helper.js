@@ -32,7 +32,7 @@ function getAccountInfo(apiKey) {
             $("progress_label").text = "Charges this month: $" + data.pending_charges;
             // console.log(balance);
             $("charges").value = balance;
-            $("remaining_credit").text = "$" + Math.abs(remainCredit);
+            $("remaining_credit").text = "$" + Math.abs(remainCredit).toFixed(2);
             $("progress_percent").text = percentBalance;
         }
     });
